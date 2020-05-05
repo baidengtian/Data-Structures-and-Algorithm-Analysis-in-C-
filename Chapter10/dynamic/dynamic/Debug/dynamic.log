@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\15581\Desktop\dynamic\dynamic\main.cpp(87): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\15581\Desktop\dynamic\dynamic\main.cpp(109): warning C4018: “<”: 有符号/无符号不匹配
+  dynamic.vcxproj -> C:\Users\15581\Desktop\dynamic\Debug\dynamic.exe

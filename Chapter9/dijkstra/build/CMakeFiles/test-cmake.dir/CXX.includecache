@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Inc/dsexceptions.h
+
+../Inc/graph.h
+iostream
+-
+list
+-
+vector
+-
+queue
+-
+dsexceptions.h
+../Inc/dsexceptions.h
+climits
+-
+
+C:/Users/15581/Desktop/graph++/Src/main.cpp
+iostream
+-
+graph.h
+C:/Users/15581/Desktop/graph++/Src/graph.h
+list
+-
+queue
+-
+

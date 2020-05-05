@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Inc/Uniformrandom.h
+chrono
+-
+random
+-
+functional
+-
+
+../Inc/dsexceptions.h
+
+../Inc/treap.h
+iostream
+-
+climits
+-
+Uniformrandom.h
+../Inc/Uniformrandom.h
+dsexceptions.h
+../Inc/dsexceptions.h
+
+C:/Users/15581/Desktop/Data Structures And Algorithm Analysis/Chapter12/treap tree/Src/main.cpp
+iostream
+-
+treap.h
+C:/Users/15581/Desktop/Data Structures And Algorithm Analysis/Chapter12/treap tree/Src/treap.h
+climits
+-
+string
+-
+vector
+-
+algorithm
+-
+stack
+-
+set
+-
+

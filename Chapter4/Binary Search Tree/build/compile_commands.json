@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/15581/Desktop/Data Structures And Algorithm Analysis/Chapter4/Binary Search Tree/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   @CMakeFiles/test-cmake.dir/includes_CXX.rsp -g   -std=gnu++1z -o CMakeFiles\\test-cmake.dir\\Src\\BinarySearchTree.cpp.obj -c \"C:\\Users\\15581\\Desktop\\Data Structures And Algorithm Analysis\\Chapter4\\Binary Search Tree\\Src\\BinarySearchTree.cpp\"",
+  "file": "C:/Users/15581/Desktop/Data Structures And Algorithm Analysis/Chapter4/Binary Search Tree/Src/BinarySearchTree.cpp"
+},
+{
+  "directory": "C:/Users/15581/Desktop/Data Structures And Algorithm Analysis/Chapter4/Binary Search Tree/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   @CMakeFiles/test-cmake.dir/includes_CXX.rsp -g   -std=gnu++1z -o CMakeFiles\\test-cmake.dir\\Src\\main.cpp.obj -c \"C:\\Users\\15581\\Desktop\\Data Structures And Algorithm Analysis\\Chapter4\\Binary Search Tree\\Src\\main.cpp\"",
+  "file": "C:/Users/15581/Desktop/Data Structures And Algorithm Analysis/Chapter4/Binary Search Tree/Src/main.cpp"
+}
+]

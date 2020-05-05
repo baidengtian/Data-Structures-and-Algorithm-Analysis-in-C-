@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Inc/random.h
+
+C:/Users/15581/Desktop/random/Src/main.cpp
+random.h
+C:/Users/15581/Desktop/random/Src/random.h
+iostream
+-
+

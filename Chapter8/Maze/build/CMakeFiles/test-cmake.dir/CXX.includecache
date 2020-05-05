@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Inc/DisjSets.h
+iostream
+-
+vector
+-
+
+../Inc/UniformRandom.h
+iostream
+-
+chrono
+-
+cmath
+-
+random
+-
+functional
+-
+
+C:/Users/15581/Desktop/Maze/Src/main.cpp
+iostream
+-
+vector
+-
+DisjSets.h
+C:/Users/15581/Desktop/Maze/Src/DisjSets.h
+UniformRandom.h
+C:/Users/15581/Desktop/Maze/Src/UniformRandom.h
+

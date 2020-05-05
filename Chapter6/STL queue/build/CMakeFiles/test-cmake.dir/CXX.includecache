@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Inc/BinomialQueue.h
+vector
+-
+iostream
+-
+dsexceptions.h
+../Inc/dsexceptions.h
+algorithm
+-
+
+../Inc/dsexceptions.h
+
+C:/Users/15581/Desktop/Data Structures And Algorithm Analysis/Chapter6/STL queue/Src/BinomialQueue.cpp
+BinomialQueue.h
+C:/Users/15581/Desktop/Data Structures And Algorithm Analysis/Chapter6/STL queue/Src/BinomialQueue.h
+
+C:/Users/15581/Desktop/Data Structures And Algorithm Analysis/Chapter6/STL queue/Src/main.cpp
+iostream
+-
+string
+-
+functional
+-
+queue
+-
+vector
+-
+

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Inc/SplayTree.h
+iostream
+-
+algorithm
+-
+
+C:/Users/15581/Desktop/Data Structures And Algorithm Analysis/Chapter4/Splay Tree/Src/SplayTree.cpp
+SplayTree.h
+C:/Users/15581/Desktop/Data Structures And Algorithm Analysis/Chapter4/Splay Tree/Src/SplayTree.h
+
+C:/Users/15581/Desktop/Data Structures And Algorithm Analysis/Chapter4/Splay Tree/Src/main.cpp
+iostream
+-
+string
+-
+SplayTree.h
+C:/Users/15581/Desktop/Data Structures And Algorithm Analysis/Chapter4/Splay Tree/Src/SplayTree.h
+

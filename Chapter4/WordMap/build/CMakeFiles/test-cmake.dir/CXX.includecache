@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Inc/wordmap.h
+iostream
+-
+map
+-
+vector
+-
+
+C:/Users/15581/Desktop/Data Structures And Algorithm Analysis/Chapter4/WordMap/Src/main.cpp
+iostream
+-
+string
+-
+wordmap.h
+C:/Users/15581/Desktop/Data Structures And Algorithm Analysis/Chapter4/WordMap/Src/wordmap.h
+unordered_set
+-
+cmath
+-
+
+C:/Users/15581/Desktop/Data Structures And Algorithm Analysis/Chapter4/WordMap/Src/wordmap.cpp
+wordmap.h
+C:/Users/15581/Desktop/Data Structures And Algorithm Analysis/Chapter4/WordMap/Src/wordmap.h
+

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Inc/Uniformrandom.h
+chrono
+-
+random
+-
+functional
+-
+
+C:/Users/15581/Desktop/Fermat/Src/main.cpp
+iostream
+-
+Uniformrandom.h
+C:/Users/15581/Desktop/Fermat/Src/Uniformrandom.h
+cmath
+-
+

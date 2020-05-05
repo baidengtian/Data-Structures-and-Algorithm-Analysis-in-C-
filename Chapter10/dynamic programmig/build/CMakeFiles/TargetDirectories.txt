@@ -1,0 +1,3 @@
+C:/Users/15581/Desktop/dynamic programmig/build/CMakeFiles/test-cmake.dir
+C:/Users/15581/Desktop/dynamic programmig/build/CMakeFiles/edit_cache.dir
+C:/Users/15581/Desktop/dynamic programmig/build/CMakeFiles/rebuild_cache.dir

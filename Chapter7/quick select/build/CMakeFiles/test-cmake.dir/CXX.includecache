@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Inc/dsexceptions.h
+
+../Inc/quicksort.h
+iostream
+-
+functional
+-
+vector
+-
+
+C:/Users/15581/Desktop/Data Structures And Algorithm Analysis/Chapter7/quick select/Src/main.cpp
+iostream
+-
+string
+-
+functional
+-
+queue
+-
+vector
+-
+dsexceptions.h
+C:/Users/15581/Desktop/Data Structures And Algorithm Analysis/Chapter7/quick select/Src/dsexceptions.h
+quicksort.cpp
+C:/Users/15581/Desktop/Data Structures And Algorithm Analysis/Chapter7/quick select/Src/quicksort.cpp
+
+C:/Users/15581/Desktop/Data Structures And Algorithm Analysis/Chapter7/quick select/Src/quicksort.cpp
+quicksort.h
+C:/Users/15581/Desktop/Data Structures And Algorithm Analysis/Chapter7/quick select/Src/quicksort.h
+

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/15581/Desktop/Data Structures And Algorithm Analysis/Chapter7/quick sort/Src/main.cpp
+iostream
+-
+string
+-
+functional
+-
+queue
+-
+vector
+-
+

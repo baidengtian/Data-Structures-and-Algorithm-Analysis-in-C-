@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/15581/Desktop/Data Structures And Algorithm Analysis/Chapter5/Hash Table Quadratic Probing/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   @CMakeFiles/test-cmake.dir/includes_CXX.rsp -g   -std=gnu++1z -o CMakeFiles\\test-cmake.dir\\Src\\Hash_Tab.cpp.obj -c \"C:\\Users\\15581\\Desktop\\Data Structures And Algorithm Analysis\\Chapter5\\Hash Table Quadratic Probing\\Src\\Hash_Tab.cpp\"",
+  "file": "C:/Users/15581/Desktop/Data Structures And Algorithm Analysis/Chapter5/Hash Table Quadratic Probing/Src/Hash_Tab.cpp"
+},
+{
+  "directory": "C:/Users/15581/Desktop/Data Structures And Algorithm Analysis/Chapter5/Hash Table Quadratic Probing/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   @CMakeFiles/test-cmake.dir/includes_CXX.rsp -g   -std=gnu++1z -o CMakeFiles\\test-cmake.dir\\Src\\main.cpp.obj -c \"C:\\Users\\15581\\Desktop\\Data Structures And Algorithm Analysis\\Chapter5\\Hash Table Quadratic Probing\\Src\\main.cpp\"",
+  "file": "C:/Users/15581/Desktop/Data Structures And Algorithm Analysis/Chapter5/Hash Table Quadratic Probing/Src/main.cpp"
+}
+]

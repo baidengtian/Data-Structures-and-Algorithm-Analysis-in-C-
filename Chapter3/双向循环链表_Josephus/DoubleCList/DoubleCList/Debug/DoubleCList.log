@@ -1,0 +1,24 @@
+﻿生成启动时间为 2020/1/6 19:23:13。
+     1>项目“C:\Users\15581\Desktop\双向循环链表\DoubleCList\DoubleCList\DoubleCList.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\DoubleCList.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         C:\VS2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt DoubleCList.cpp main.cpp
+         main.cpp
+     1>c:\users\15581\desktop\双向循环链表\doubleclist\doubleclist\doubleclist.h(354): error C2143: 语法错误 : 缺少“,”(在“:”的前面)
+                 c:\users\15581\desktop\双向循环链表\doubleclist\doubleclist\main.cpp(15): 参见对正在编译的函数 模板 实例化“std::ostream &operator <<<int>(std::ostream &,const doubleCList<Object> &)”的引用
+                 with
+                 [
+                     Object=int
+                 ]
+     1>c:\users\15581\desktop\双向循环链表\doubleclist\doubleclist\doubleclist.h(354): error C2530: “x”: 必须初始化引用
+     1>c:\users\15581\desktop\双向循环链表\doubleclist\doubleclist\doubleclist.h(354): error C3531: “x”: 类型包含“auto”的符号必须具有初始值设定项
+         正在生成代码...
+         正在编译...
+         DoubleCList.cpp
+         正在生成代码...
+     1>已完成生成项目“C:\Users\15581\Desktop\双向循环链表\DoubleCList\DoubleCList\DoubleCList.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:02.42

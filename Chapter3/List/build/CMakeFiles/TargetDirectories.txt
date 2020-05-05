@@ -1,0 +1,3 @@
+C:/Users/15581/Desktop/List/build/CMakeFiles/test-cmake.dir
+C:/Users/15581/Desktop/List/build/CMakeFiles/edit_cache.dir
+C:/Users/15581/Desktop/List/build/CMakeFiles/rebuild_cache.dir

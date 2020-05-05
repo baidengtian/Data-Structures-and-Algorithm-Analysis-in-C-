@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/15581/Desktop/map/build",
+  "command": "C:\\mingw64\\bin\\g++.exe     -g -g   -o CMakeFiles\\VSCode_Cpp_CMake.dir\\helloworld.cpp.obj -c C:\\Users\\15581\\Desktop\\map\\helloworld.cpp",
+  "file": "C:/Users/15581/Desktop/map/helloworld.cpp"
+}
+]

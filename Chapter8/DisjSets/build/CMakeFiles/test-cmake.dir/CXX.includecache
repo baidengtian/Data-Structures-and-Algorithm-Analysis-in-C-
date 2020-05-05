@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Inc/DisjSets.h
+iostream
+-
+vector
+-
+
+C:/Users/15581/Desktop/Data Structures And Algorithm Analysis/Chapter8/DisjSets/Src/main.cpp
+iostream
+-
+DisjSets.h
+C:/Users/15581/Desktop/Data Structures And Algorithm Analysis/Chapter8/DisjSets/Src/DisjSets.h
+

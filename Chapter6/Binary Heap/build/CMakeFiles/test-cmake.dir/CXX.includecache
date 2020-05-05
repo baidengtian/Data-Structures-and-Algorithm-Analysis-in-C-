@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Inc/BinaryHeap.h
+dsexceptions.h
+../Inc/dsexceptions.h
+vector
+-
+iostream
+-
+
+../Inc/dsexceptions.h
+
+C:/Users/15581/Desktop/Data Structures And Algorithm Analysis/Chapter6/Binary Heap/Src/BinaryHeap.cpp
+BinaryHeap.h
+C:/Users/15581/Desktop/Data Structures And Algorithm Analysis/Chapter6/Binary Heap/Src/BinaryHeap.h
+
+C:/Users/15581/Desktop/Data Structures And Algorithm Analysis/Chapter6/Binary Heap/Src/main.cpp
+iostream
+-
+string
+-
+BinaryHeap.h
+C:/Users/15581/Desktop/Data Structures And Algorithm Analysis/Chapter6/Binary Heap/Src/BinaryHeap.h
+vector
+-
+

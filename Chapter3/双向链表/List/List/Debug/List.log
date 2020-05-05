@@ -1,0 +1,83 @@
+﻿生成启动时间为 2019/12/27 20:45:20。
+     1>项目“C:\Users\15581\Desktop\数据结构与算法分析\双向链表\List\List\List.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\List.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         C:\VS2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt List.cpp main.cpp
+         main.cpp
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(274): error C2059: 语法错误:“,”
+                 c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(268): 参见对正在编译的类 模板 实例化“List<Object>::Node”的引用
+                 c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(556): 参见对正在编译的类 模板 实例化“List<Object>”的引用
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(274): error C2334: “{”的前面有意外标记；跳过明显的函数体
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(274): error C2059: 语法错误:“,”
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(274): error C2334: “{”的前面有意外标记；跳过明显的函数体
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(274): error C2059: 语法错误:“{”
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(274): error C2334: “{”的前面有意外标记；跳过明显的函数体
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(277): error C2059: 语法错误:“,”
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(277): error C2334: “{”的前面有意外标记；跳过明显的函数体
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(277): error C2059: 语法错误:“,”
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(277): error C2334: “{”的前面有意外标记；跳过明显的函数体
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(277): error C2059: 语法错误:“{”
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(277): error C2334: “{”的前面有意外标记；跳过明显的函数体
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(287): error C2059: 语法错误:“{”
+                 c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(282): 参见对正在编译的类 模板 实例化“List<Object>::const_iterator”的引用
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(287): error C2334: “{”的前面有意外标记；跳过明显的函数体
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(339): error C2059: 语法错误:“{”
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(339): error C2334: “{”的前面有意外标记；跳过明显的函数体
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(396): error C2059: 语法错误:“{”
+                 c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(344): 参见对正在编译的类 模板 实例化“List<Object>::iterator”的引用
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(396): error C2334: “{”的前面有意外标记；跳过明显的函数体
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(428): error C2059: 语法错误:“,”
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(428): error C2334: “{”的前面有意外标记；跳过明显的函数体
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(428): error C2059: 语法错误:“,”
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(428): error C2334: “{”的前面有意外标记；跳过明显的函数体
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(429): error C2059: 语法错误:“{”
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(429): error C2334: “{”的前面有意外标记；跳过明显的函数体
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(428): error C2059: 语法错误:“,”
+                 c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\main.cpp(7): 参见对正在编译的类 模板 实例化“List<Object>”的引用
+                 with
+                 [
+                     Object=int
+                 ]
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(428): error C2334: “{”的前面有意外标记；跳过明显的函数体
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(428): error C2059: 语法错误:“,”
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(428): error C2334: “{”的前面有意外标记；跳过明显的函数体
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(429): error C2059: 语法错误:“{”
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(429): error C2334: “{”的前面有意外标记；跳过明显的函数体
+         正在生成代码...
+         正在编译...
+         List.cpp
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(274): error C2059: 语法错误:“,”
+                 c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(268): 参见对正在编译的类 模板 实例化“List<Object>::Node”的引用
+                 c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(556): 参见对正在编译的类 模板 实例化“List<Object>”的引用
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(274): error C2334: “{”的前面有意外标记；跳过明显的函数体
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(274): error C2059: 语法错误:“,”
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(274): error C2334: “{”的前面有意外标记；跳过明显的函数体
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(274): error C2059: 语法错误:“{”
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(274): error C2334: “{”的前面有意外标记；跳过明显的函数体
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(277): error C2059: 语法错误:“,”
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(277): error C2334: “{”的前面有意外标记；跳过明显的函数体
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(277): error C2059: 语法错误:“,”
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(277): error C2334: “{”的前面有意外标记；跳过明显的函数体
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(277): error C2059: 语法错误:“{”
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(277): error C2334: “{”的前面有意外标记；跳过明显的函数体
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(287): error C2059: 语法错误:“{”
+                 c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(282): 参见对正在编译的类 模板 实例化“List<Object>::const_iterator”的引用
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(287): error C2334: “{”的前面有意外标记；跳过明显的函数体
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(339): error C2059: 语法错误:“{”
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(339): error C2334: “{”的前面有意外标记；跳过明显的函数体
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(396): error C2059: 语法错误:“{”
+                 c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(344): 参见对正在编译的类 模板 实例化“List<Object>::iterator”的引用
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(396): error C2334: “{”的前面有意外标记；跳过明显的函数体
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(428): error C2059: 语法错误:“,”
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(428): error C2334: “{”的前面有意外标记；跳过明显的函数体
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(428): error C2059: 语法错误:“,”
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(428): error C2334: “{”的前面有意外标记；跳过明显的函数体
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(429): error C2059: 语法错误:“{”
+     1>c:\users\15581\desktop\数据结构与算法分析\双向链表\list\list\list.h(429): error C2334: “{”的前面有意外标记；跳过明显的函数体
+         正在生成代码...
+     1>已完成生成项目“C:\Users\15581\Desktop\数据结构与算法分析\双向链表\List\List\List.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.97

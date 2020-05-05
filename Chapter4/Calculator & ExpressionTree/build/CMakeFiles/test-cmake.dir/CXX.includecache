@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Inc/ExpressionTree.h
+iostream
+-
+stack
+-
+string
+-
+
+../Inc/Stack.h
+vector
+-
+iostream
+-
+
+C:/Users/15581/Desktop/Calculator/Src/main.cpp
+iostream
+-
+Stack.h
+C:/Users/15581/Desktop/Calculator/Src/Stack.h
+vector
+-
+string
+-
+map
+-
+ExpressionTree.h
+C:/Users/15581/Desktop/Calculator/Src/ExpressionTree.h
+

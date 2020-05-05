@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Inc/Uniformrandom.h
+chrono
+-
+random
+-
+functional
+-
+
+C:/Users/15581/Desktop/Turnpike reconstruction algorithm/Src/main.cpp
+iostream
+-
+Uniformrandom.h
+C:/Users/15581/Desktop/Turnpike reconstruction algorithm/Src/Uniformrandom.h
+cmath
+-
+vector
+-
+algorithm
+-
+

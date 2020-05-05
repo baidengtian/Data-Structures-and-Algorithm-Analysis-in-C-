@@ -1,0 +1,3 @@
+C:/Users/15581/Desktop/Data Structures And Algorithm Analysis/Chapter7/quick select/build/CMakeFiles/test-cmake.dir
+C:/Users/15581/Desktop/Data Structures And Algorithm Analysis/Chapter7/quick select/build/CMakeFiles/edit_cache.dir
+C:/Users/15581/Desktop/Data Structures And Algorithm Analysis/Chapter7/quick select/build/CMakeFiles/rebuild_cache.dir

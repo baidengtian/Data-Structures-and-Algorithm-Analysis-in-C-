@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/15581/Desktop/pow/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   @CMakeFiles/test-cmake.dir/includes_CXX.rsp -g   -std=gnu++1z -o CMakeFiles\\test-cmake.dir\\Src\\main.cpp.obj -c C:\\Users\\15581\\Desktop\\pow\\Src\\main.cpp",
+  "file": "C:/Users/15581/Desktop/pow/Src/main.cpp"
+}
+]

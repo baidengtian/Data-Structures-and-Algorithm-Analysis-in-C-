@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/15581/Desktop/dynamic programmig/Src/main.cpp
+iostream
+-
+string
+-
+functional
+-
+queue
+-
+vector
+-
+climits
+-
+

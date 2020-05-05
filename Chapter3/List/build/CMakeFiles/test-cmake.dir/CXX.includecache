@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Inc/List.h
+algorithm
+-
+
+C:/Users/15581/Desktop/List/Src/main.cpp
+iostream
+-
+List.h
+C:/Users/15581/Desktop/List/Src/List.h
+

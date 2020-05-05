@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Inc/LeftistHeap.h
+vector
+-
+iostream
+-
+dsexceptions.h
+../Inc/dsexceptions.h
+
+../Inc/dsexceptions.h
+
+C:/Users/15581/Desktop/Data Structures And Algorithm Analysis/Chapter6/LeftistHeap/Src/LeftistHeap.cpp
+LeftistHeap.h
+C:/Users/15581/Desktop/Data Structures And Algorithm Analysis/Chapter6/LeftistHeap/Src/LeftistHeap.h
+
+C:/Users/15581/Desktop/Data Structures And Algorithm Analysis/Chapter6/LeftistHeap/Src/main.cpp
+iostream
+-
+string
+-
+LeftistHeap.h
+C:/Users/15581/Desktop/Data Structures And Algorithm Analysis/Chapter6/LeftistHeap/Src/LeftistHeap.h
+vector
+-
+

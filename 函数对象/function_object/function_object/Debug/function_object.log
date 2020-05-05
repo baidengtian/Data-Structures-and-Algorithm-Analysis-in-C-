@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\15581\Desktop\函数对象\function_object\function_object\main.cpp(8): warning C4018: “<”: 有符号/无符号不匹配
+  C:\Users\15581\Desktop\函数对象\function_object\function_object\main.cpp(33): note: 参见对正在编译的函数 模板 实例化“const Object &findMax<std::string,CaseInsensitiveCompare>(const std::vector<std::string,std::allocator<_Ty>> &,Comparator)”的引用
+          with
+          [
+              Object=std::string,
+              _Ty=std::string,
+              Comparator=CaseInsensitiveCompare
+          ]
+  function_object.vcxproj -> C:\Users\15581\Desktop\函数对象\function_object\Debug\function_object.exe
